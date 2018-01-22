@@ -5,3 +5,4 @@ git tracks changes.
 chentao is sha bi
 chentao is my son
 create a new branch is quick.
+creating a new branch is quick AND simple.
